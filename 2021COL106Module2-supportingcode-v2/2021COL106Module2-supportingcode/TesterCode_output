@@ -1,0 +1,52 @@
+Auth. Lists: Testing Insert, DeleteFirst and DeleteLast
+
+*****************************************************************
+
+
+start_string: 2021COL106
+
+You must use your entry number as start_string
+
+
+Insert: "Hello" 
+
+Proof after insert operation: 5DDE0BF7255E2B25BB222E39DB26E648DBAC1484A78E35796AD7F56333D24B9B
+
+
+Insert: "This is COL106" 
+
+Proof after insert operation: 3E9527CD5768397AFE594AF84B8DAD9B25516C24C8D8A84DD24612AE51E159FF
+
+
+Insert: "This is Lab Module 2" 
+
+Proof after insert operation: 4258A3848B26A844541272D1972C76110CE9F6A395C0137A5301ABF77BCD5436
+
+
+Deleted First Node
+
+Proof after DeleteFirst: B04AD3918C270CEE6078350C077B9FDB73ADF47D0EFF64D9BACD8ED0771E56FC
+
+
+Deleted Last Node
+
+Proof after DeleteLast: 18D222D439082AB677A90A4ED8568756A3EB34785740FFBFF9AAC0F87974A755
+
+
+*****************************************************************
+
+
+Auth. Stacks: 
+ Push "Hello", "This is COL106", "This is Lab Module 2"
+
+*****************************************************************
+
+
+Pushed Docuements to the stack
+
+Popped Docuement from the stack
+
+Top of stack: This is COL106
+
+Stack Authenticated
+
